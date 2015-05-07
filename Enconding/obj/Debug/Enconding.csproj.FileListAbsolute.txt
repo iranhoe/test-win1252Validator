@@ -1,0 +1,6 @@
+c:\Dev\VS\Enconding\Enconding\bin\Debug\Enconding.exe.config
+c:\Dev\VS\Enconding\Enconding\bin\Debug\Enconding.exe
+c:\Dev\VS\Enconding\Enconding\bin\Debug\Enconding.pdb
+c:\Dev\VS\Enconding\Enconding\obj\Debug\Enconding.csprojResolveAssemblyReference.cache
+c:\Dev\VS\Enconding\Enconding\obj\Debug\Enconding.exe
+c:\Dev\VS\Enconding\Enconding\obj\Debug\Enconding.pdb
